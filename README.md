@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/randomColorButton.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=![](https://i.giphy.com/Users/cheesetsui/Desktop/codepath-prework/randomColorButton.gif) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with: [Kap](https://getkap.co/) for macOS
