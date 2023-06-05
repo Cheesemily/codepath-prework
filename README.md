@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/embed/PK6mySsuvBqR1b37y7\' title='Video Walkthrough' width='' alt='Video Walkthrough' /> title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://giphy.com/embed/PK6mySsuvBqR1b37y7" width="480" height="304" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/codepath-prework-PK6mySsuvBqR1b37y7">via GIPHY</a></p>\' title='Video Walkthrough' width='' alt='Video Walkthrough' /> title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with: [Kap](https://getkap.co/) for macOS
