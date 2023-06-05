@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="https://imgur.com/a/kVY7QGt" title='Video Walkthrough' width='' alt='Video Walkthrough' /> check it out!
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/kVY7QGt"  ><a href="//imgur.com/a/kVY7QGt">Codepath Prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 GIF created with: [Kap](https://getkap.co/) for macOS
 
